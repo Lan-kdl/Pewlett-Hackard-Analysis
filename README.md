@@ -1,10 +1,10 @@
 # Pewlett-Hackard-Analysis
 
-##Overview 
+## Overview 
 
 The purpose of this analysis was to prepare Bobby's manager for the increase in retirement of his current employees by identifying the employees that have reached the age of retirment and determining which employees are eligible for a mentorship program which could fill those positions. 
 
-##Results
+## Results
 
 - Of all of the department titles, the titles with the most employees of retirement age are senior engineer with 25,916 employees and senior staff with 24,926 employees. 
 - Of all the employees of retirement age, less than 1% (0.00276%) are managers. Out of all employees at retirement age, only 1.5% are assisstant engineers. 
@@ -16,14 +16,14 @@ The purpose of this analysis was to prepare Bobby's manager for the increase in 
  
 ![mentorship_eligibility](https://user-images.githubusercontent.com/95589611/155901588-ad8ff7aa-e1f7-46a7-be72-77d44e27d839.png)
 
-##Summary: 
+## Summary: 
 As the "silver tsunami" begins to make impact, 72,458 roles will need to be filled: 
 
 ![count_of_roles](https://user-images.githubusercontent.com/95589611/155901624-a6edc39f-07dd-4b58-8894-e849f7011e59.png)
 
 Unfortunatley, there are not enough retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. There are far more roles that will need to be filled than there are employees to mentor those who might fill those roles. For example, there are 25,916 senior engineering roles that might need to be filled once the "silver tsunami" hits while there are only 259 of those employees who are able to mentor the next generation. In order to fill those positions, the mentors would have to take on just over 100 apprentices each which is not practicle. Even the senior staff, which has the most employees eligible for mentoring would still have to take on 57 apprentices each.
 
-###Table suggestions
+### Table suggestions
 
 In order to better prepare Bobby's manager for the "silver tsunami" I suggest making a table which would display all current employees which have been with the company for over 10 years. You could use the current date of employeement and the from_date to determine these employees. I believe that this table would be beneficial because you could expand the range of employees who might be elegible for a promotion without mentorship. 
 
