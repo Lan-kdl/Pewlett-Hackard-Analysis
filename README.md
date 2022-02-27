@@ -9,8 +9,11 @@ The purpose of this analysis was to prepare Bobby's manager for the increase in 
 
 ### Data
 [Retirement Titles](https://github.com/Lan-kdl/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv)
+
 [Unique Titles](https://github.com/Lan-kdl/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv)
+
 [Retiring Titles](https://github.com/Lan-kdl/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
+
 [Mentorship Eligibility](https://github.com/Lan-kdl/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.csv)
 
 
